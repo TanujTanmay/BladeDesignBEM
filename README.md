@@ -1,2 +1,2 @@
 # BladeDesignBEM
-Using BEM and Particle Swarm and Differential Evolution optimization techniques to design wind turbine blades
+Using BEM with Particle Swarm and Differential Evolution optimization techniques to design wind turbine blades
